@@ -5,7 +5,7 @@ theme = "temple"
 publishDir = "/home/breetz/zone/blog/"
 
 [permalinks]
-post = "/:year/:month/:title/"
+post = "/:year/:month/:slug/"
 
 [author]
 twitter = "BreetzTweetz"
