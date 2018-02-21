@@ -1,0 +1,10 @@
+baseURL = "http://breetz.zone/blog/"
+languageCode = "en-us"
+title = "breetz blog"
+theme = "temple"
+
+[permalinks]
+post = "/:year/:month/:title/"
+
+[author]
+twitter = "BreetzTweetz"
