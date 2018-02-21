@@ -2,6 +2,7 @@ baseURL = "http://breetz.zone/blog/"
 languageCode = "en-us"
 title = "breetz blog"
 theme = "temple"
+publishDir = "/home/breetz/zone/blog/"
 
 [permalinks]
 post = "/:year/:month/:title/"
