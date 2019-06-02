@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Movies of 2009"
-date: 2019-06-01T23:53:59-07:00
-draft: true
+date: 2019-06-02T01:06:00-07:00
+draft: false
 tags:
     - movies
     - 2009
