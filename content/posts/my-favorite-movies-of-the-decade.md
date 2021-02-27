@@ -2,6 +2,10 @@
 title: "My Favorite Movies of the Decade"
 date: 2020-10-10T18:10:00-07:00
 draft: false
+tags:
+- movies
+- 2010s
+- lists
 ---
 
 # 20 - Toy Story 3 (2010)
