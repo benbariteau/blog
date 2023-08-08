@@ -3,7 +3,7 @@ title: "My Favorite Movies That I Watched in 2021"
 date: 2022-01-20T21:26:44-08:00
 draft: false
 tags:
-    - 2021
+    - 2020s
     - lists
     - movies
 ---

@@ -5,6 +5,7 @@ draft: false
 tags:
     - movies
     - 2020s
+    - hot takes
 ---
 I laughed a _lot_. The sight gags of barbie stuff, like the ambulance opening up into a mini-hospital really couldn't have been done in a non-branded movie. Rowan and I were the only one who laughed at the Zack Synder joke in a theater full of kids (danger of a 6:30PM showing), but I didn't care because it was hilarious.
 

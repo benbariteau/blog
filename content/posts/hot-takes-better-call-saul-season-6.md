@@ -1,10 +1,12 @@
 ---
-title: "Hot Takes Better Call Saul Season 6"
+title: "Hot Takes - Better Call Saul Season 6"
 date: 2023-02-05T22:46:19-08:00
 draft: false
 tags:
     - tv
     - hot takes
+    - 2020s
+    - 2010s
 ---
 
 Okay, first, great ending. I'll go into details, but I want to get that out of the way.

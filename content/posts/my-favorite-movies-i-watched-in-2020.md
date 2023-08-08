@@ -4,7 +4,7 @@ date: 2021-01-27T23:58:37-08:00
 draft: false
 tags:
 - movies
-- 2020
+- 2020s
 - lists
 ---
 

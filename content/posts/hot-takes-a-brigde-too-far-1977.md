@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes: A Bridge Too Far (1977)"
+title: "Hot Takes - A Bridge Too Far (1977)"
 date: 2023-01-20T22:02:12-08:00
 draft: false
 tags:

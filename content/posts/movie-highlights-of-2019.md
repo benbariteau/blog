@@ -3,7 +3,7 @@ title: "Movie Highlights of 2019"
 date: 2020-02-10T21:37:24-08:00
 draft: false
 tags:
-    - 2019
+    - 2010s
     - movies
     - lists
 ---

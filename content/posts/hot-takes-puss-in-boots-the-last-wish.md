@@ -5,6 +5,7 @@ draft: false
 tags:
     - movies
     - 2020s
+    - hot takes
 ---
 Caught this on a plane. I might not have caught it otherwise, despite the praise I heard heaped on it. And damn if it doesn't deserve it!
 

@@ -1,10 +1,11 @@
 ---
-title: "Hot Takes: Oppenheimer"
+title: "Hot Takes - Oppenheimer"
 date: 2023-07-21T19:17:00-07:00
 draft: false
 tags:
     - movies
     - 2020s
+    - hot takes
 ---
 
 Overall good! This feels like extremely restrained for Nolan, but it still has his flair. Visually I like how he's taken his obsession with visualizing physics stuff and turned into a motif for this film. It finally feels like he's figured out how to use sound too! Very good layering and use of volume, and yet the dialogue is still always understandable.

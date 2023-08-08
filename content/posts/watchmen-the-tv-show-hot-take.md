@@ -1,11 +1,11 @@
 ---
-title: "Watchmen (The TV Show) Hot Take"
+title: "Hot Takes - Watchmen (The TV Show)"
 date: 2022-01-27T21:39:31-08:00
 draft: false
 tags:
-    - watchmen
-    - 2019
+    - 2010s
     - tv
+    - hot takes
 ---
 Recently, I finally got around to _Watchmen (2019)_, the kinda-sorta-limited series based on the comic book series of the same name. I took a bit too chew on it and now here I am with my hot take about it. In order to discuss the aspects of the show, I'll be spoiling the whole shebang, so turn back now if you want to go in totally fresh. Also in the interest of brevity, I'm not going to recap the plot, so it probably won't make much sense anyway.
 

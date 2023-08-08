@@ -6,6 +6,7 @@ tags:
     - movies
     - TV
     - library
+    - essays
 ---
 
 Over the last year or so I've slowly started using the library more and more for most of my media consumption habits.

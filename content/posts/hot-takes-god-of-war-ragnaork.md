@@ -4,7 +4,8 @@ date: 2023-07-03T19:18:17-07:00
 draft: false
 tags:
     - 2020s
-    - video games
+    - games
+    - hot takes
 ---
 First, stuff I liked. I think the combat is good; basically "more of the same" compared to the last game. I liked the puzzle-y navigation for the most part, especially in The Crater, which felt like the platonic ideal of an open world area. The dialogue continues to be well written, with Kratos's gruffness being great for comedy.
 

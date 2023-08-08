@@ -5,6 +5,7 @@ draft: false
 tags:
     - 2020s
     - movies
+    - hot takes
 ---
 Well, it's a Mission: Impossible. They got masks. They got self-destructing tapes. Big action set pieces. Tom Cruise on a motorcycle (a couple times). And I enjoy all that stuff. Perfect popcorn movie in that way.
 
