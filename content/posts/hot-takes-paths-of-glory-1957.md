@@ -1,6 +1,6 @@
 ---
 title: "Hot Takes - Paths of Glory (1957)"
-date: 2023-08-07T19:53:08-07:00
+date: 2023-07-22T19:53:08-07:00
 draft: false
 tags:
     - 1950s
