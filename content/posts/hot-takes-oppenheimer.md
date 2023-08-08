@@ -1,6 +1,6 @@
 ---
 title: "Hot Takes: Oppenheimer"
-date: 2023-08-07T19:17:00-07:00
+date: 2023-07-21T19:17:00-07:00
 draft: false
 tags:
     - movies

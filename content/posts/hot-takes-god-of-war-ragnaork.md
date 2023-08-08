@@ -1,6 +1,6 @@
 ---
 title: "Hot Takes - God of War Ragnaork"
-date: 2023-08-07T19:18:17-07:00
+date: 2023-07-03T19:18:17-07:00
 draft: false
 tags:
     - 2020s
