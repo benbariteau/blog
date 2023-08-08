@@ -1,7 +1,7 @@
 ---
 title: "Hot Takes - Puss in Boots: The Last Wish (2022)"
 date: 2023-08-07T19:05:00-07:00
-draft: true
+draft: false
 tags:
     - movies
     - 2020s
