@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - Star Trek: Picard Season 2"
+title: "Hot Takes - Star Trek: Picard - Season 2"
 date: 2022-07-16T21:52:59-07:00
 draft: false
 tags:

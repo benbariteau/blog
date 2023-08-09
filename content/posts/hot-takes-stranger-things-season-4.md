@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - Stranger Things Season 4"
+title: "Hot Takes - Stranger Things - Season 4"
 date: 2022-08-08T21:43:08-07:00
 draft: false
 tags:

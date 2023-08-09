@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - Paths of Glory (1957)"
+title: "Hot Takes - Paths of Glory"
 date: 2023-07-22T19:53:08-07:00
 draft: false
 tags:

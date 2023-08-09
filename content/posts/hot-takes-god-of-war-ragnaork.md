@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - God of War Ragnaork"
+title: "Hot Takes - God of War Ragnarok"
 date: 2023-07-03T19:18:17-07:00
 draft: false
 tags:

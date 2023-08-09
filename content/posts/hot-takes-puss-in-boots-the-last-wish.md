@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - Puss in Boots: The Last Wish (2022)"
+title: "Hot Takes - Puss in Boots: The Last Wish"
 date: 2023-08-07T19:05:00-07:00
 draft: false
 tags:
