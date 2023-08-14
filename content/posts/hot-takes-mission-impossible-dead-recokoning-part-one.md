@@ -1,5 +1,5 @@
 ---
-title: "Hot Takes - Mission: Impossible - Dead Recokoning Part One"
+title: "Hot Takes - Mission: Impossible - Dead Reckoning Part One"
 date: 2023-07-14T19:19:47-07:00
 draft: false
 tags:
